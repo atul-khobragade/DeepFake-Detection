@@ -10,7 +10,7 @@ Frame capturing was done from all the videos such that some number(32) of evenly
 After that, face detection was performed by 3 different face detection techniques: 1)DLIB 2)MediaPipe 3)MTCNN . All types of images were converted to 64 X 64 X 3 size and stored in the respective arrays.
 
 Example of extracted frames are as follows:
-
+![alt text](https://github.com/atul-khobragade/DeepFake-Detection/blob/main/Fake%20and%20real%20images.png)
 ![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/illustration.jpeg?raw=true)
 
 =======
