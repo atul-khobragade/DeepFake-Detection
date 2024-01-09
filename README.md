@@ -11,7 +11,7 @@ After that, face detection was performed by 3 different face detection technique
 
 Example of extracted frames are as follows:
 ![alt text](https://github.com/atul-khobragade/DeepFake-Detection/blob/main/Fake%20and%20real%20images.png)
-![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/illustration.jpeg?raw=true)
+
 
 =======
 ## Preprocessing:
